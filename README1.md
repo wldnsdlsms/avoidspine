@@ -2,7 +2,7 @@
 
 프로젝트명 : AvoidSpine<br>
 프로젝트 설명 : 자바스크립트를 이용하여 만든 닷지를 오마주로 한 투사체 피하기 게임<br>
-적용 기술 : java 8.x <br>
+적용 기술 : java 8.x , JavaScript <br>
 개발 환경 : VisualStudioCode<br>
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTRfMTA2/MDAxNTU3NzY2MTg4MTAx.4Pu-HbXwpn8dagV2QQB16UG4MjoGzgFMkSZRigAg4EAg.GfKd-8RlawGuC7g50roXDeLazfZ22TDf-xxWK_XOWZQg.PNG.wonjjang44/image.png?type=w773"/>
