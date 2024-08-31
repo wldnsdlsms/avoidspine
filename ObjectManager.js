@@ -1,5 +1,6 @@
 //게임에 등장할 객체의 등록, 게임에서 제거될 객체의 삭제
 //화면에 등장하는 모든 오브젝트를 대상으로 tick(), render()
+// PR Test
 class ObjectManager{
 	constructor(){
 		this.objectArray=[];//종류에 상관없이 모든~~게임객체들이
